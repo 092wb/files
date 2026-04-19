@@ -9,7 +9,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   public: `./public`,
   // 网站标题，标题颜色可在 src/client/css/main.css 中修改
-  title: '092五笔',
+  title: '092五笔资源库',
   // 网站的简介，有助于搜索引擎收录
   description: '092五笔，作者：行走的风景',
   // 页面 <head> 标签内添加的额外标签。 不要修改/logo.png可以替换掉这个文件，删除logo.png会导致构建出错。
